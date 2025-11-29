@@ -17,7 +17,7 @@ This project is designed as a **mini AI interview screener**, suitable for recru
 8. [Example Usage](#example-usage)  
 9. [Best Practices](#best-practices)  
 10. [Future Improvements](#future-improvements)  
-11. [License](#license)  
+
 
 ---
 
