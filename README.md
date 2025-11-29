@@ -187,21 +187,4 @@ uvicorn app:app --reload
 * Build a **frontend dashboard** to visualize scores
 * Support **customizable scoring rubrics** per company needs
 
----
 
-## **License**
-
-This project is released under the **MIT License**.
-
----
-
-> **Note:** This repository is backend-only. To deploy, you can use platforms like **Render**, **Railway**, or **Heroku** with environment variables set for the Groq API key.
-
-```
-
----
-
-If you want, I can also **write the `.env.example` and deployment instructions** for Render so you can deploy this backend in **5 minutes**.  
-
-Do you want me to do that next?
-```
