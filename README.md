@@ -1,10 +1,3 @@
-Absolutely! Here’s a **professional, full README.md** for your FastAPI + Groq AI Interview Screener project. I’ve included all explanations, setup steps, API details, and best practices.
-
----
-
-# **README.md**
-
-```markdown
 # AI Interview Screener (Backend Only)
 
 A lightweight backend service built with **FastAPI** that evaluates and ranks candidate answers using **Groq LLM**.  
