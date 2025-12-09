@@ -2,6 +2,12 @@
 
 A lightweight backend service built with **FastAPI** that evaluates and ranks candidate answers using **Groq LLM**.  
 This project is designed as a **mini AI interview screener**, suitable for recruitment automation or skill assessment.
+---
+## Live API (Render Deployment)
+https://ai-interview-screener.onrender.com
+
+## API Documentation (Swagger)
+https://ai-interview-screener.onrender.com/docs
 
 ---
 
